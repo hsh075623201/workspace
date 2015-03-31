@@ -1,5 +1,9 @@
 package com.hsh.proxy;
-
+/**
+ * ¾²Ì¬´úÀí²âÊÔ
+ * @author HSH
+ *
+ */
 public class Proxy_static_test {
 	
 	public static void main(String[] args){

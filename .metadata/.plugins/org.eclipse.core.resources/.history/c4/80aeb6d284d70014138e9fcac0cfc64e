@@ -1,0 +1,5 @@
+package com.hsh.proxy.dynamic.jdk;
+
+public class Proxy {
+
+}

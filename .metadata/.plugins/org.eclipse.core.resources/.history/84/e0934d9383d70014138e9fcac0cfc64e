@@ -1,0 +1,31 @@
+package com.hsh.proxy;
+/**
+ * 静态代理
+ * 缺点：每个代理类只能服务于一个接口，如果出现过多的代理类，易出现代码重复
+ * @author HSH
+ *
+ */
+public class Proxy_static implements People {
+	
+	private PeopleImpl peopleImpl;
+	
+	public Proxy_static(PeopleImpl peopleImpl){
+		this.peopleImpl = peopleImpl;
+	}
+
+	public void eat() {
+		// TODO Auto-generated method stub
+		System.out.println("eating before...");
+		peopleImpl.eat();
+		System.out.println("eating after...");
+	}
+
+	public void talk() {
+		// TODO Auto-generated method stub
+		System.out.println("talk before...");
+		peopleImpl.talk();
+		System.out.println("talk after...");
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service name="HelloWebService">
+	<description>Web Service Demo</description>
+	<parameter name="ServiceClass">  
+        cn.edu.shou.hsh.webservices.HelloWebService 
+    </parameter>  
+    <operation name="webServiceTest">
+    	<!-- 有返回值  -->
+    	<messageReceiver class="org.apache.axis2.rpc.receivers.RPCMessageReceiver"/>  
+	</operation>  
+	<!--<operation name="updateData">
+		 无返回值 
+	    <messageReceiver  
+	        class="org.apache.axis2.rpc.receivers.RPCInOnlyMessageReceiver"/>  
+    </operation>-->  
+</service>
+<!-- 
+将带有包名的类文件以及services.xml 打包 成aar文件 并放入axis2\WEB-INF\services文件下
+例如：
+在webservices文件下存在
+ cn.edu.shou.hsh.webservices.HelloWebService.class
+ META-INF\services.xml
+ 则cmd进入 webservices文件下 输入打包命令：
+   jar cvf ws.aar .     *** .别忘了
+   将生成的ws.aar文件放入axis2\WEB-INF\services文件下
+http://clq9761.iteye.com/blog/976029
+ -->

@@ -1,0 +1,13 @@
+#Wed Apr 01 14:00:04 CST 2015
+tomcat7Server.IntegrationDemo.IEARProjectName=
+tomcat7Server.IntegrationDemo.altContextRoot=
+tomcat7Server.IntegrationDemo.isDeployed=true
+tomcat7Server.IntegrationDemo.contextRoot=/IntegrationDemo
+tomcat7Server.IntegrationDemo.type=WebDeployment
+tomcat7Server.IntegrationDemo.deployIsOverProject=false
+tomcat7Server.IntegrationDemo.shouldBackup=false
+tomcat7Server.IntegrationDemo.isExploded=true
+tomcat7Server.IntegrationDemo.isUptoDate=true
+eclipse.preferences.version=1
+tomcat7Server.IntegrationDemo.shouldOverwrite=false
+tomcat7Server.IntegrationDemo.deploymentPath=D\:\\tomcat\\apache-tomcat-7.0.47\\webapps\\IntegrationDemo

@@ -1,0 +1,5 @@
+package cn.edu.shou.hsh.webservices;
+
+public class HelloWebService {
+
+}

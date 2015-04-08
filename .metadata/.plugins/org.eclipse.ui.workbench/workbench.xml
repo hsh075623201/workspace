@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="31" version="2.0">
+<workbench progressCount="19" version="2.0">
 <workbenchAdvisor/>
-<window height="728" maximized="true" width="1196" x="439" y="60">
+<window height="728" maximized="true" width="1196" x="120" y="262">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="82"/>
@@ -65,6 +65,8 @@
 <part id="17"/>
 <part id="18"/>
 <part id="19"/>
+<part id="20"/>
+<part id="21"/>
 </presentation>
 </folder>
 </info>
@@ -94,7 +96,7 @@
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.ui.DefaultTextEditor" name="说明.txt" partName="说明.txt" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/说明.txt" title="说明.txt" tooltip="IntegrationDemo/说明.txt" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/说明.txt"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="42" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="103" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ActiveMQQueue.class" partName="ActiveMQQueue.class" title="ActiveMQQueue.class" tooltip="org.apache.activemq.command.ActiveMQQueue" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/activemq-core-5.7.0.jar&lt;org.apache.activemq.command(ActiveMQQueue.class"/>
@@ -143,6 +145,13 @@
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmployeeController.java" partName="EmployeeController.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java" title="EmployeeController.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="697" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWebService.java" partName="HelloWebService.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java" title="HelloWebService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="90" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="services.xml" partName="services.xml" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/META-INF/services.xml" title="services.xml" tooltip="IntegrationDemo/WebRoot/META-INF/services.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/WebRoot/META-INF/services.xml"/>
 </editor>
 </editors>
 <views>
@@ -275,7 +284,7 @@
 </viewState>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="com.genuitec.myeclipse.perspective.myeclipseperspective">
+<perspectives activePart="org.eclipse.ui.DefaultTextEditor" activePerspective="com.genuitec.myeclipse.perspective.myeclipseperspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
@@ -872,7 +881,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="bottom" ratio="0.5719063" ratioLeft="342" ratioRight="256" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.87123746" ratioLeft="521" ratioRight="77" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
@@ -931,38 +940,9 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.springframework.springconfigeditor" path="/IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/IntegrationDemo/WebRoot/META-INF/services.xml"/>
 </editors>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="503" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="579" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="579" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="569" y="0"/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="579" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="1233" y="321"/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="545" y="71"/>
-</item>
-<item historyLabel="springmvc-servlet.xml" index="0"/>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="1182" y="0"/>
-</item>
 <item historyLabel="ConsumerServiceImpl.java" index="2">
 <position info="not_deleted" x="949" y="0"/>
 </item>
@@ -1065,6 +1045,31 @@
 <item historyLabel="EmployeeController.java" index="11">
 <position info="not_deleted" x="697" y="0"/>
 </item>
+<item historyLabel="说明.txt" index="4">
+<position info="not_deleted" x="44" y="0"/>
+</item>
+<item historyLabel="HelloWebService.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="HelloWebService.java" index="12">
+<position info="not_deleted" x="183" y="0"/>
+</item>
+<item historyLabel="HelloWebService.java" index="12">
+<position info="not_deleted" x="170" y="0"/>
+</item>
+<item historyLabel="services.xml" index="13"/>
+<item historyLabel="HelloWebService.java" index="12">
+<position info="not_deleted" x="8" y="27"/>
+</item>
+<item historyLabel="services.xml" index="13"/>
+<item historyLabel="HelloWebService.java" index="12">
+<position info="not_deleted" x="53" y="15"/>
+</item>
+<item historyLabel="services.xml" index="13"/>
+<item historyLabel="HelloWebService.java" index="12">
+<position info="not_deleted" x="90" y="14"/>
+</item>
+<item historyLabel="services.xml" index="13"/>
 <item active="true" historyLabel="说明.txt" index="4">
 <position info="not_deleted" x="44" y="0"/>
 </item>
@@ -1085,6 +1090,12 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="services.xml" tooltip="IntegrationDemo/WebRoot/META-INF/services.xml">
+<persistable path="/IntegrationDemo/WebRoot/META-INF/services.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWebService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java">
+<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmployeeController.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java">
 <persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java"/>
 </file>
@@ -1123,12 +1134,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="index.jsp" tooltip="IntegrationDemo/WebRoot/index.jsp">
 <persistable path="/IntegrationDemo/WebRoot/index.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="说明.txt" tooltip="IntegrationDemo/说明.txt">
-<persistable path="/IntegrationDemo/说明.txt"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="EmployeeMapper.xml" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/mapping/EmployeeMapper.xml">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/mapping/EmployeeMapper.xml"/>
 </file>
 </mruList>
 </workbench>

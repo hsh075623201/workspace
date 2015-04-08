@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="19" version="2.0">
 <workbenchAdvisor/>
-<window height="728" maximized="true" width="1196" x="120" y="262">
+<window height="728" maximized="true" width="1196" x="161" y="225">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="82"/>
 </perspectiveBar>
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="214" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="229" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="com.genuitec.eclipse.j2eedt.core.ejb" itemType="typeToolBarContribution" x="55" y="22"/>
 <coolItem id="com.genuitec.eclipse.uml.actions" itemType="typeToolBarContribution" x="61" y="22"/>
@@ -21,25 +21,25 @@
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="175" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="147" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="115" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" itemType="typeToolBarContribution" x="38" y="22"/>
-<coolItem id="com.genuitec.eclipse.springframework.springconfigeditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" itemType="typePlaceholder" x="38" y="22"/>
+<coolItem id="com.genuitec.eclipse.springframework.springconfigeditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="com.genuitec.eclipse.webdesigner3.editors.jsp" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" itemType="typePlaceholder" x="38" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1427690714805" focus="true" label="Workspace - MyEclipse Java Enterprise">
+<page aggregateWorkingSetId="Aggregate for window 1427690714805" focus="true" label="Workspace - Java">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
@@ -53,105 +53,41 @@
 <part id="5"/>
 <part id="6"/>
 <part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
-<part id="18"/>
-<part id="19"/>
-<part id="20"/>
-<part id="21"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" name="jdbc.properties" partName="jdbc.properties" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/jdbc.properties" title="jdbc.properties" tooltip="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/jdbc.properties" workbook="DefaultEditorWorkbook">
-<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/IntegrationDemo/src/jdbc.properties"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SenderTest.java" partName="SenderTest.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SenderTest.java" title="SenderTest.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SenderTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SenderTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="56" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="springmvc-mybatis.xml" partName="springmvc-mybatis.xml" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/springmvc-mybatis.xml" title="springmvc-mybatis.xml" tooltip="IntegrationDemo/src/springmvc-mybatis.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/springmvc-mybatis.xml"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SenderTest.java" partName="SenderTest.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderTest.java" title="SenderTest.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="61" selectionTopPixel="0"/>
 </editor>
-<editor id="com.genuitec.eclipse.springframework.springconfigeditor" name="springmvc-servlet.xml" partName="springmvc-servlet.xml" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml" title="springmvc-servlet.xml" tooltip="IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" partName="MailSender.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailSender.java" title="MailSender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailSender.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailSender.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="57" selectionTopPixel="0"/>
 </editor>
-<editor id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" partName="web.xml" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/WEB-INF/web.xml" title="web.xml" tooltip="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/IntegrationDemo/WebRoot/WEB-INF/web.xml"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmployeeService.java" partName="EmployeeService.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/service/EmployeeService.java" title="EmployeeService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/service/EmployeeService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/service/EmployeeService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="436" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmployeeDao.java" partName="EmployeeDao.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/dao/EmployeeDao.java" title="EmployeeDao.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/dao/EmployeeDao.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/dao/EmployeeDao.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="228" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="EmployeeMapper.xml" partName="EmployeeMapper.xml" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/mapping/EmployeeMapper.xml" title="EmployeeMapper.xml" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/mapping/EmployeeMapper.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/mapping/EmployeeMapper.xml"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.ui.DefaultTextEditor" name="说明.txt" partName="说明.txt" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/说明.txt" title="说明.txt" tooltip="IntegrationDemo/说明.txt" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/说明.txt"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="103" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ActiveMQQueue.class" partName="ActiveMQQueue.class" title="ActiveMQQueue.class" tooltip="org.apache.activemq.command.ActiveMQQueue" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/activemq-core-5.7.0.jar&lt;org.apache.activemq.command(ActiveMQQueue.class"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sender.java" partName="Sender.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Sender.java" title="Sender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Sender.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Sender.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="JmsTemplate.class" partName="JmsTemplate.class" title="JmsTemplate.class" tooltip="org.springframework.jms.core.JmsTemplate" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/spring-jms-3.2.4.RELEASE.jar&lt;org.springframework.jms.core(JmsTemplate.class"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="36256" selectionTopPixel="16422"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ExceptionFactory.class" partName="ExceptionFactory.class" title="ExceptionFactory.class" tooltip="org.apache.ibatis.exceptions.ExceptionFactory" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/mybatis-3.1.1.jar&lt;org.apache.ibatis.exceptions(ExceptionFactory.class"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SmsSender.java" partName="SmsSender.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsSender.java" title="SmsSender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsSender.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsSender.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerService.java" partName="ProducerService.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerService.java" title="ProducerService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="54" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Provider.java" partName="Provider.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Provider.java" title="Provider.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Provider.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Provider.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="74" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerServiceImpl.java" partName="ProducerServiceImpl.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerServiceImpl.java" title="ProducerServiceImpl.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerServiceImpl.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerServiceImpl.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="208" selectionTopPixel="673"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailFactory.java" partName="MailFactory.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailFactory.java" title="MailFactory.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailFactory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="173" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumerService.java" partName="ConsumerService.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerService.java" title="ConsumerService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="98" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumerServiceImpl.java" partName="ConsumerServiceImpl.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerServiceImpl.java" title="ConsumerServiceImpl.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerServiceImpl.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerServiceImpl.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="854" selectionTopPixel="163"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerTest.java" partName="ProducerTest.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerTest.java" title="ProducerTest.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="572" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumerTest.java" partName="ConsumerTest.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerTest.java" title="ConsumerTest.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="565" selectionTopPixel="113"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskJob.java" partName="TaskJob.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java" title="TaskJob.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="140" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InterceptorTest.java" partName="InterceptorTest.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/interceptor/InterceptorTest.java" title="InterceptorTest.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/interceptor/InterceptorTest.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/interceptor/InterceptorTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="531" selectionTopPixel="119"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmployeeController.java" partName="EmployeeController.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java" title="EmployeeController.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="697" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWebService.java" partName="HelloWebService.java" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java" title="HelloWebService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="90" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="services.xml" partName="services.xml" path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/META-INF/services.xml" title="services.xml" tooltip="IntegrationDemo/WebRoot/META-INF/services.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IntegrationDemo/WebRoot/META-INF/services.xml"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SmsFactory.java" partName="SmsFactory.java" path="G:/MyEclipse8.6WorkSpace/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsFactory.java" title="SmsFactory.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsFactory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="183" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -284,7 +220,7 @@
 </viewState>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.DefaultTextEditor" activePerspective="com.genuitec.myeclipse.perspective.myeclipseperspective">
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="com.genuitec.myeclipse.actions.deploytools"/>
@@ -395,23 +331,32 @@
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="left">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="left">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.21033211" ratioLeft="285" ratioRight="1070" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.74875206" ratioLeft="450" ratioRight="151" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<info part="org.eclipse.ui.editorss" ratio="0.27527675" ratioLeft="373" ratioRight="982" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.74875206" ratioLeft="450" ratioRight="151" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
@@ -420,20 +365,28 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="right" ratio="0.74975467" ratioLeft="764" ratioRight="255" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="right" ratio="0.74975467" ratioLeft="764" ratioRight="255" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
 <info part="org.springframework.ide.eclipse.aop.ui.navigator.aopReferenceModelNavigator" ratio="0.5" ratioLeft="225" ratioRight="225" relationship="4" relative="right"/>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@92cb0b" ratio="0.5" ratioLeft="225" ratioRight="225" relationship="4" relative="right">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.springframework.ide.eclipse.ui.navigator.springExplorer" label="LabelNotFound"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@92cb0b" ratio="0.5" ratioLeft="225" ratioRight="225" relationship="4" relative="right">
+<folder appearance="2" expanded="2">
+<page content="org.springframework.ide.eclipse.ui.navigator.springExplorer" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@c0a3fe" ratio="0.65217394" ratioLeft="390" ratioRight="208" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@c0a3fe" ratio="0.65217394" ratioLeft="390" ratioRight="208" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -862,8 +815,8 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.2398524" ratioLeft="325" ratioRight="1030" relationship="2" relative="cvslocation"/>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@198c556" ratio="0.78350514" ratioLeft="760" ratioRight="210" relationship="2" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.20885609" ratioLeft="283" ratioRight="1072" relationship="2" relative="cvslocation"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@198c556" ratio="0.8673197" ratioLeft="974" ratioRight="149" relationship="2" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -881,7 +834,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="bottom" ratio="0.87123746" ratioLeft="521" ratioRight="77" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.8913044" ratioLeft="533" ratioRight="65" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
@@ -928,150 +881,173 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.springframework.springconfigeditor" path="/IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerServiceImpl.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerServiceImpl.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/service/EmployeeService.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/IntegrationDemo/说明.txt"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.core.runtime.xml.source" path="/IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/interceptor/InterceptorTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/IntegrationDemo/src/springmvc-mybatis.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.genuitec.eclipse.springframework.springconfigeditor" path="/IntegrationDemo/WebRoot/WEB-INF/springmvc-servlet.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/IntegrationDemo/WebRoot/META-INF/services.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Common/SenderTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Common/SenderFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/Sender.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/MailSender.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SmsSender.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/explanation.txt"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Sender.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailSender.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SenderTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsSender.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Provider.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/explanation.txt"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/explanation.txt"/>
 </editors>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="949" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="1182" y="0"/>
-</item>
-<item historyLabel="springmvc-servlet.xml" index="0"/>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="1182" y="0"/>
-</item>
-<item historyLabel="springmvc-servlet.xml" index="0"/>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="1182" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
+<item historyLabel="SenderTest.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="734" y="0"/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="625" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="692" y="0"/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="625" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="692" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="582" y="0"/>
-</item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
+<item historyLabel="SenderFactory.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="EmployeeService.java" index="3">
-<position info="not_deleted" x="436" y="0"/>
+<item historyLabel="SenderFactory.java" index="1">
+<position info="not_deleted" x="59" y="0"/>
 </item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="503" y="0"/>
+<item historyLabel="SenderTest.java" index="0">
+<position info="not_deleted" x="62" y="0"/>
 </item>
-<item historyLabel="springmvc-servlet.xml" index="0"/>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="760" y="66"/>
+<item historyLabel="SenderFactory.java" index="1">
+<position info="not_deleted" x="107" y="0"/>
 </item>
-<item historyLabel="说明.txt" index="4">
-<position info="not_deleted" x="72" y="0"/>
+<item historyLabel="Sender.java" index="2">
+<position/>
 </item>
-<item historyLabel="ProducerServiceImpl.java" index="1">
-<position info="not_deleted" x="208" y="0"/>
+<item historyLabel="MailSender.java" index="3">
+<position/>
 </item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="1219" y="0"/>
-</item>
-<item historyLabel="ConsumerServiceImpl.java" index="2">
-<position info="not_deleted" x="854" y="0"/>
-</item>
-<item historyLabel="说明.txt" index="4">
-<position info="not_deleted" x="72" y="0"/>
-</item>
-<item historyLabel="TaskJob.java" index="5">
+<item historyLabel="SenderFactory.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TaskJob.java" index="5">
-<position info="not_deleted" x="152" y="0"/>
-</item>
-<item historyLabel="springmvc-servlet.xml" index="0">
-<position info="not_deleted" x="4375" y="0"/>
-</item>
-<item historyLabel="springmvc-servlet.xml" index="6">
-<position info="not_deleted" x="40" y="0"/>
-</item>
-<item historyLabel="TaskJob.java" index="5">
-<position info="not_deleted" x="229" y="0"/>
-</item>
-<item historyLabel="springmvc-servlet.xml" index="0"/>
-<item historyLabel="TaskJob.java" index="5">
-<position info="not_deleted" x="227" y="0"/>
-</item>
-<item historyLabel="说明.txt" index="4">
-<position info="not_deleted" x="37" y="0"/>
-</item>
-<item historyLabel="TaskJob.java" index="5">
-<position info="not_deleted" x="140" y="0"/>
-</item>
-<item historyLabel="说明.txt" index="4">
-<position info="not_deleted" x="37" y="0"/>
-</item>
-<item historyLabel="InterceptorTest.java" index="7">
-<position info="not_deleted" x="531" y="0"/>
-</item>
-<item historyLabel="springmvc-mybatis.xml" index="8"/>
-<item historyLabel="springmvc-servlet.xml" index="9"/>
-<item historyLabel="TaskJob.java" index="10">
-<position info="not_deleted" x="140" y="0"/>
-</item>
-<item historyLabel="EmployeeController.java" index="11">
-<position info="not_deleted" x="697" y="0"/>
-</item>
-<item historyLabel="说明.txt" index="4">
-<position info="not_deleted" x="44" y="0"/>
-</item>
-<item historyLabel="HelloWebService.java" index="12">
+<item historyLabel="SmsSender.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="HelloWebService.java" index="12">
+<item historyLabel="SenderFactory.java" index="4">
+<position info="not_deleted" x="266" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position/>
+</item>
+<item historyLabel="SenderFactory.java" index="4">
+<position info="not_deleted" x="123" y="0"/>
+</item>
+<item historyLabel="explanation.txt" index="7">
+<position info="not_deleted" x="46" y="0"/>
+</item>
+<item historyLabel="Sender.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MailSender.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="10">
+<position info="not_deleted" x="331" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="10">
+<position info="not_deleted" x="326" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position/>
+</item>
+<item historyLabel="SenderFactory.java" index="4">
+<position info="not_deleted" x="195" y="13"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position/>
+</item>
+<item historyLabel="SenderFactory.java" index="4">
+<position info="not_deleted" x="308" y="10"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position/>
+</item>
+<item historyLabel="SenderFactory.java" index="4">
+<position info="not_deleted" x="308" y="10"/>
+</item>
+<item historyLabel="Sender.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MailSender.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="10">
+<position info="not_deleted" x="301" y="0"/>
+</item>
+<item historyLabel="SenderFactory.java" index="4">
+<position info="not_deleted" x="49" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="10">
+<position info="not_deleted" x="344" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MailSender.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Sender.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SmsSender.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Provider.java" index="12">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="MailFactory.java" index="13">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="SmsFactory.java" index="14">
 <position info="not_deleted" x="183" y="0"/>
 </item>
-<item historyLabel="HelloWebService.java" index="12">
-<position info="not_deleted" x="170" y="0"/>
+<item historyLabel="SenderTest.java" index="10">
+<position info="not_deleted" x="259" y="0"/>
 </item>
-<item historyLabel="services.xml" index="13"/>
-<item historyLabel="HelloWebService.java" index="12">
-<position info="not_deleted" x="8" y="27"/>
+<item historyLabel="MailFactory.java" index="13">
+<position info="not_deleted" x="178" y="0"/>
 </item>
-<item historyLabel="services.xml" index="13"/>
-<item historyLabel="HelloWebService.java" index="12">
-<position info="not_deleted" x="53" y="15"/>
+<item historyLabel="MailSender.java" index="9">
+<position info="not_deleted" x="57" y="10"/>
 </item>
-<item historyLabel="services.xml" index="13"/>
-<item historyLabel="HelloWebService.java" index="12">
-<position info="not_deleted" x="90" y="14"/>
+<item historyLabel="explanation.txt" index="15">
+<position info="not_deleted" x="71" y="0"/>
 </item>
-<item historyLabel="services.xml" index="13"/>
-<item active="true" historyLabel="说明.txt" index="4">
-<position info="not_deleted" x="44" y="0"/>
+<item historyLabel="explanation.txt" index="16">
+<position info="not_deleted" x="29" y="0"/>
+</item>
+<item historyLabel="explanation.txt" index="15">
+<position info="not_deleted" x="71" y="0"/>
+</item>
+<item historyLabel="MailSender.java" index="9">
+<position info="not_deleted" x="57" y="10"/>
+</item>
+<item historyLabel="SenderTest.java" index="10">
+<position info="not_deleted" x="56" y="0"/>
+</item>
+<item historyLabel="SenderTest.java" index="6">
+<position info="not_deleted" x="61" y="0"/>
+</item>
+<item historyLabel="Provider.java" index="12">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="Sender.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Provider.java" index="12">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item active="true" historyLabel="MailFactory.java" index="13">
+<position info="not_deleted" x="178" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -1090,50 +1066,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="services.xml" tooltip="IntegrationDemo/WebRoot/META-INF/services.xml">
-<persistable path="/IntegrationDemo/WebRoot/META-INF/services.xml"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="explanation.txt" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/explanation.txt">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/explanation.txt"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWebService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/webservices/HelloWebService.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="explanation.txt" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/explanation.txt">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/explanation.txt"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmployeeController.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/controller/EmployeeController.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SmsFactory.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsFactory.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsFactory.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InterceptorTest.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/interceptor/InterceptorTest.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/interceptor/InterceptorTest.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailFactory.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailFactory.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailFactory.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskJob.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/task/TaskJob.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Provider.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Provider.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Provider.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumerTest.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerTest.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerTest.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SmsSender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsSender.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SmsSender.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerTest.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerTest.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerTest.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Sender.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/Sender.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumerServiceImpl.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerServiceImpl.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerServiceImpl.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailSender.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/MailSender.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumerService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerService.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ConsumerService.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SenderTest.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderTest.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderTest.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerServiceImpl.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerServiceImpl.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerServiceImpl.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SenderTest.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SenderTest.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/AbstractFactory/SenderTest.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerService.java" tooltip="IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerService.java">
-<persistable path="/IntegrationDemo/src/cn/edu/shou/hsh/activemq/ProducerService.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SmsSender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SmsSender.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SmsSender.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ExceptionFactory.class" tooltip="org.apache.ibatis.exceptions.ExceptionFactory">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/mybatis-3.1.1.jar&lt;org.apache.ibatis.exceptions(ExceptionFactory.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SenderFactory.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderFactory.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/SenderFactory.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="JmsTemplate.class" tooltip="org.springframework.jms.core.JmsTemplate">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/spring-jms-3.2.4.RELEASE.jar&lt;org.springframework.jms.core(JmsTemplate.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/MailSender.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/MailSender.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ActiveMQQueue.class" tooltip="org.apache.activemq.command.ActiveMQQueue">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=IntegrationDemo/lib\/activemq-core-5.7.0.jar&lt;org.apache.activemq.command(ActiveMQQueue.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sender.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/Sender.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Static/Sender.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="index.jsp" tooltip="IntegrationDemo/WebRoot/index.jsp">
-<persistable path="/IntegrationDemo/WebRoot/index.jsp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SenderTest.java" tooltip="DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Common/SenderTest.java">
+<persistable path="/DesignPattern/src/cn/edu/shou/hsh/FactoryMethod/Common/SenderTest.java"/>
 </file>
 </mruList>
 </workbench>

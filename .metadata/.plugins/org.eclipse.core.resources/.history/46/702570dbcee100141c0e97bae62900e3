@@ -1,0 +1,28 @@
+package cn.edu.shou.hsh.junit;
+
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import cn.edu.shou.hsh.core.AppContext;
+import cn.edu.shou.hsh.service.EmployeeService;
+
+
+
+
+public class JunitTest {
+	@Autowired
+	private AppContext appContext;
+	
+	@org.junit.Test
+	public void Test(){
+		System.out.println(appContext);
+		EmployeeService employee = (EmployeeService) appContext.getBean("employeeService");
+		employee.JunitTest();
+	}
+	
+	
+
+	
+	
+}

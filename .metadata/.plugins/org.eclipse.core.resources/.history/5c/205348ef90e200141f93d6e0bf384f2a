@@ -1,0 +1,24 @@
+package cn.edu.shou.hsh.junit;
+
+
+import cn.edu.shou.hsh.core.AppContext;
+import cn.edu.shou.hsh.service.EmployeeService;
+
+
+
+
+public class JunitTest {
+
+	
+	@org.junit.Test
+	public void Test(){
+		System.out.println(AppContext.class);
+		EmployeeService employee = (EmployeeService) AppContext.getBean("employeeService");
+		employee.JunitTest();
+	}
+	
+	
+
+	
+	
+}

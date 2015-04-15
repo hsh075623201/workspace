@@ -1,0 +1,23 @@
+package cn.edu.shou.hsh.junit;
+
+
+import cn.edu.shou.hsh.core.AppContext;
+import cn.edu.shou.hsh.service.EmployeeService;
+
+
+
+
+public class JunitTest extends BaseSpringTestCase {
+
+	
+	@org.junit.Test
+	public void Test(){
+		EmployeeService employee = (EmployeeService) AppContext.getBean("employeeService");
+		employee.JunitTest();
+	}
+	
+	
+
+	
+	
+}

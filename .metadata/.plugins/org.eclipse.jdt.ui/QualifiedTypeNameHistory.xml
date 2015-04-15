@@ -20,9 +20,7 @@
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.activemq.ProducerServiceImpl"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.activemq.ConsumerServiceImpl"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="org.springframework.scheduling.annotation.Scheduled"/>
 <fullyQualifiedTypeName name="org.springframework.web.servlet.HandlerInterceptor"/>
 <fullyQualifiedTypeName name="org.apache.axis2.databinding.types.soapencoding.QName"/>
@@ -32,4 +30,20 @@
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.FactoryMethod.Common.SmsSender"/>
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.AbstractFactory.MailSender"/>
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.AbstractFactory.SmsSender"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.singleton.Singleton"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.Director"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.Builder"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.Productor"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.ConcreteBuilder"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.controller.EmployeeController"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContextAware"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationListener"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="cn.edu.shou.hsh.core.AppContext"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,17 @@
+package cn.edu.shou.hsh.builder;
+
+public class BuilderTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ConcreteBuilder builder = new ConcreteBuilder();
+		Director director = new Director(builder);
+		Productor productor = director.getProductor();
+		productor.showProductor();
+	}
+
+}

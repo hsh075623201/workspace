@@ -4,6 +4,8 @@
 		<item value="false" key="caseSensitiveCheckbox"/>
 		<item value="false" key="regExCheckbox"/>
 		<list key="queryLastSearchesList">
+			<item value="freecms"/>
+			<item value="free"/>
 			<item value="*"/>
 		</list>
 	</section>

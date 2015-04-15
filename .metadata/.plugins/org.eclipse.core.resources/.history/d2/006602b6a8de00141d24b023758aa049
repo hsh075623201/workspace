@@ -1,0 +1,28 @@
+package cn.edu.shou.hsh.builder;
+
+public class ConcreteBuilder extends Builder{
+
+	private Productor productor;
+	public void buildPart1() {
+		// TODO Auto-generated method stub
+		System.out.println("build part1...");
+		productor.setPart1("part1...");
+	}
+
+	public void buildPart2() {
+		// TODO Auto-generated method stub
+		System.out.println("build part2...");
+		productor.setPart2("part2...");
+	}
+
+	public void buildPart3() {
+		// TODO Auto-generated method stub
+		System.out.println("build part3...");
+		productor.setPart3("part3...");
+	}
+	
+	public Productor getProductor() {  
+        return productor;  
+    }  
+
+}

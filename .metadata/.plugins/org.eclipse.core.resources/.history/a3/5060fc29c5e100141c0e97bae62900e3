@@ -1,0 +1,47 @@
+package cn.edu.shou.hsh.junit;
+
+
+import org.springframework.beans.BeansException;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.ApplicationContextAware;
+import org.springframework.context.ApplicationEvent;
+import org.springframework.context.ApplicationListener;
+import org.springframework.stereotype.Component;
+
+import cn.edu.shou.hsh.controller.EmployeeController;
+import cn.edu.shou.hsh.service.EmployeeService;
+
+
+@Component
+public class JunitTest implements ApplicationContextAware,  ApplicationListener{
+	
+	ApplicationContext ac = null;
+	@org.junit.Test
+	public void Test(){
+		EmployeeController employee = new EmployeeController();
+		employee.getEmployeeList();
+	}
+	
+	public void setApplicationContext(ApplicationContext arg0)
+			throws BeansException {
+		// TODO Auto-generated method stub
+		ac= arg0;
+		//EmployeeService employee = (EmployeeService) arg0.getBean("employeeService");
+		//System.out.println("hshdfsdhfsf:"+employee);
+		
+		
+	}
+
+	public void onApplicationEvent(ApplicationEvent arg0) {
+		
+		
+//		ApplicationEvent e = arg0;
+		
+		
+		System.out.println(arg0.getClass().getName());
+		
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

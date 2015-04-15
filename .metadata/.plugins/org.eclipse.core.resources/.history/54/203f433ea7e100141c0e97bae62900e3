@@ -1,0 +1,14 @@
+package cn.edu.shou.hsh.junit;
+
+import org.springframework.stereotype.Service;
+
+import cn.edu.shou.hsh.controller.EmployeeController;
+
+public class JunitTest {
+	@org.junit.Test
+	public void Test(){
+		EmployeeController employee = new EmployeeController();
+		employee.getEmployeeList();
+	}
+	
+}

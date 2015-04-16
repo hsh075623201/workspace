@@ -35,7 +35,6 @@
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.Builder"/>
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.Productor"/>
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.builder.ConcreteBuilder"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="cn.edu.shou.hsh.controller.EmployeeController"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContextAware"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationListener"/>
@@ -46,4 +45,5 @@
 <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
 </qualifiedTypeNameHistroy>

@@ -1,4 +1,5 @@
-框架：springmvc+mybatis+spring+mysql
+框架技术：
+springmvc+mybatis+spring+mysql
 +activemq(持久化)
 +task定时任务
 +拦截器

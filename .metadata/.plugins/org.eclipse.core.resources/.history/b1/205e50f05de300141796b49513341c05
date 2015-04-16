@@ -1,0 +1,23 @@
+package cn.edu.shou.hsh.junit;
+
+
+import org.springframework.beans.BeansException;
+
+import cn.edu.shou.hsh.core.AppContextUtil;
+import cn.edu.shou.hsh.service.EmployeeService;
+
+
+public class JunitTest extends BaseJunitTest{
+	
+	@org.junit.Test
+	public void Test(){
+		System.out.println("Junit [Test]:"+AppContextUtil.getApplicationContext());
+		EmployeeService employee = (EmployeeService) AppContextUtil.getApplicationContext().getBean("employeeService");
+		employee.JunitTest();
+	}
+	@org.junit.Test
+	public void transctionalTest() throws BeansException, Exception{
+		((EmployeeService) AppContextUtil.getApplicationContext().getBean("employeeService")).deleteEmployeeById();
+	}
+	
+}

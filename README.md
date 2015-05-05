@@ -1,6 +1,6 @@
 # workspace
 
-IntegrationDemo:
+#IntegrationDemo:
 springmvc+mybatis+spring+mysql
 +activemq(持久化)
 +task定时任务
@@ -8,11 +8,11 @@ springmvc+mybatis+spring+mysql
 +webService(axis2)
 +Junit
 
-ProxyTest:
+#ProxyTest:
 静态代理
 +动态代理（JDK+CGLIB）
 
-DesignPattern:
+#DesignPattern:
 工厂模式
 +单例模式
 +建造者模式

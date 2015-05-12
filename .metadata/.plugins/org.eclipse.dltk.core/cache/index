@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
 <cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" environment="org.eclipse.dltk.core.environment.localEnvironment">
-  <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/index.jsp" timestamp="1427867473655" lastAccessTime="1428890004765"/>
   <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/other/apache-activemq-5.11.1/docs/index.html" timestamp="1427958776144" lastAccessTime="1427958777509"/>
   <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/other/apache-activemq-5.11.1/docs/user-guide.html" timestamp="1427958776215" lastAccessTime="1427958777613"/>
   <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/other/apache-activemq-5.11.1/examples/mqtt/websocket/index.html" timestamp="1427958777246" lastAccessTime="1427958780277"/>
@@ -102,4 +101,5 @@
   <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/other/apache-activemq-5.11.1/webapps-demo/demo/websocket/chat.js" timestamp="1427958809761" lastAccessTime="1427958854656"/>
   <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/other/apache-activemq-5.11.1/webapps-demo/demo/websocket/index.html" timestamp="1427958809780" lastAccessTime="1427958854758"/>
   <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/other/apache-activemq-5.11.1/webapps-demo/demo/websocket/stomp.js" timestamp="1427958809799" lastAccessTime="1427958855142"/>
+  <entries path="G:/MyEclipse8.6WorkSpace/IntegrationDemo/WebRoot/index.jsp" timestamp="1429180521565" lastAccessTime="1430911770345"/>
 </cache:CacheIndex>

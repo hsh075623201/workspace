@@ -1,8 +1,0 @@
-package cn.edu.shou.hsh.builder;
-
-public class Productor {
-
-	private String part1;
-	private String part2;
-	private String part3;
-}

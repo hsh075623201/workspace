@@ -1,5 +1,0 @@
-package com.hsh.proxy;
-
-public interface People {
-
-}

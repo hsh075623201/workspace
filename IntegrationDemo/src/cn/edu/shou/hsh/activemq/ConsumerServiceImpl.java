@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 public class ConsumerServiceImpl implements ConsumerService{
 	
 	@Autowired
-	@Qualifier("jmsQueueTemplate")
+	//@Qualifier("jmsQueueTemplate")
 	private JmsTemplate jmsTemplate;
 	/*@Autowired
 	@Qualifier("queueDest")

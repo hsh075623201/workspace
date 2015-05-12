@@ -10,7 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
  * @author HSH
  *
  */
-@ContextConfiguration(locations = "file:WebRoot/WEB-INF/springmvc-servlet.xml")
+@ContextConfiguration(locations = {"file:WebRoot/WEB-INF/springmvc-servlet.xml","file:WebRoot/WEB-INF/applicationContext.xml"})
 @RunWith(SpringJUnit4ClassRunner.class)
 @Transactional
 @TransactionConfiguration(transactionManager = "transactionManager", defaultRollback = true)

@@ -10,8 +10,6 @@ import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
 /**
  * 返回applicationContext
- * 如果在web.xml中配置了ContextLoaderListener
- * 则会出现多次调用 并且存在两个容器
  * @author HSH
  *
  */
@@ -33,16 +31,19 @@ public class AppContextUtil implements ApplicationContextAware,ApplicationListen
 
 	public void onApplicationEvent(ApplicationEvent appEvent) {
 	// TODO Auto-generated method stub
-		if (appEvent instanceof ContextRefreshedEvent) {
-			System.out.println("spring init start...");
+		System.out.println("start...");
+		System.out.println(appEvent);
+		if (appEvent instanceof ContextRefreshedEvent) {//初始化完成
+			
 			ContextRefreshedEvent cre = (ContextRefreshedEvent)appEvent;
 			ApplicationContext ac =  cre.getApplicationContext();
 			System.out.println("==================" + ac.getDisplayName());
 			if(ac == appContext) {
-				System.out.println(" 1111111111111111111");
+				System.out.println("ac == appContext");
 			}
 			System.out.println("spring init completed...");
 			
 		}
+		System.out.println("ended...");
 	}
 }

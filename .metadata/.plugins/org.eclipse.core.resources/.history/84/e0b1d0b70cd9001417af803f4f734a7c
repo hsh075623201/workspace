@@ -1,9 +1,0 @@
-package cn.edu.shou.hsh.task;
-
-public class TaskJob {
-	
-	public void job() {
-		System.out.println("task is doing...");
-	}
-
-}

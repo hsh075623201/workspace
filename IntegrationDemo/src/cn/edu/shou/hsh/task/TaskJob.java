@@ -8,7 +8,7 @@ public class TaskJob {
 	//每隔30秒执行的任务
 	@Scheduled(cron = "0/30 * * * * ?")
 	public void job() {
-		System.out.println("job task is doing...");
+		//System.out.println("job task is doing...");
 	}
 	//每隔一分钟执行的任务
 	@Scheduled(cron = "0 0/1 * * * ?")

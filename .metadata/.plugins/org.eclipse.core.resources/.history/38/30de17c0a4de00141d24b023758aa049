@@ -1,8 +1,0 @@
-package cn.edu.shou.hsh.singleton;
-
-public class Singleton {
-	
-	private Singleton(){}
-	private static sigleton 
-
-}

@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 public class ProducerServiceImpl implements ProducerService {
 	
 	@Autowired
-	@Qualifier("jmsQueueTemplate")
+	//@Qualifier("jmsQueueTemplate")
 	private JmsTemplate jmsTemplate;
 	
 	@Autowired

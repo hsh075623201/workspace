@@ -16,3 +16,6 @@ springmvc+mybatis+spring+mysql
 工厂模式
 +单例模式
 +建造者模式
+
+#ThreadDemo:
+多线程
